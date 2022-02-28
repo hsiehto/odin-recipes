@@ -1,0 +1,1 @@
+My website will consist of a main index page which will contain links to a several reciepes. 
